@@ -35,13 +35,12 @@ Foundation information
 * Dutch VAT number: NL851125049B01
 
 
-Board as of February 22, 2017:
+Board as of May 2017:
 
 * Elger Jonker, Stitch (Chairman)
-* Eelco Hotting, Eelco (Treasurer)
+* Attilla de Groot, Attilla (Treasurer)
 * Julius ter Pelkwijk, mr_seeker (Secretary)
-* Attilla de Groot, Attilla (general board member)
-* Barry van Kampen, fish_ (general board member)
+* Eelco Hotting, Eelco (general board member)
 
 The board currently has two vacancies for general board membership. To apply, send an e-mail to board@ifcat.org.
 
