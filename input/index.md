@@ -28,7 +28,7 @@ Foundation information
 ======================
 
 * Name: Stichting International Festivals for Creative Application of Technology Foundation
-* Postal address: Graan voor Visch 18515, 2132 GW, Hoofddorp, The Netherlands
+* Postal address: Drie Hoeven 13, 3155 TR Maasland, The Netherlands
 * Bank account (IBAN): NL42 RABO 0166 8900 30
 * Bank Location: Rabobank Rijn en Heuvelrug
 * KVK / Dutch chamber of commerce number: 54030498
@@ -40,7 +40,6 @@ Board as of May 2017:
 * Elger Jonker, Stitch (Chairman)
 * Attilla de Groot, Attilla (Treasurer)
 * Julius ter Pelkwijk, mr_seeker (Secretary)
-* Eelco Hotting, Eelco (general board member)
 
 The board currently has two vacancies for general board membership. To apply, send an e-mail to board@ifcat.org.
 
