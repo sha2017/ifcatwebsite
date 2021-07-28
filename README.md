@@ -1,2 +1,4 @@
 # ifcatwebsite
-A simple website for the IFCAT foundation.
+A static website for the IFCAT foundation.
+
+Site is in the 'public' folder.
