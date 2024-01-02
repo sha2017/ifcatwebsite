@@ -1,4 +1,1 @@
-# ifcatwebsite
-A static website for the IFCAT foundation.
-
-Site is in the 'public' folder.
+This repo is now obsolete, please use: https://gitlab.com/ifcat/website
